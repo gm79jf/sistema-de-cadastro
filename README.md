@@ -5,5 +5,5 @@
 > este é meu projeto
 
 ```
- rode assim
+node app.jf
 ```
